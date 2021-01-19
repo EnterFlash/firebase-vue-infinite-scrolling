@@ -1,0 +1,1 @@
+firebase-vue-infinite-scrolling
